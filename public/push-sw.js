@@ -18,6 +18,7 @@
             'fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/></svg>'
         );
 
+
     function asString(value) {
         if (value == null) {
             return '';
